@@ -1,0 +1,36 @@
+th{
+	background-color: olive;
+	color: white;
+	font-weight:800;
+	font-size:40;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+
+	}
+
+tr{
+	font-family: sans-serif;
+	font-synthesis: style;
+	font-style: italic;
+}
+table{
+border-collapse: collapse;
+border-width: 2px;
+border-style: solid;
+border-color: olive;
+background-color: grey;
+
+}
+
+h1{
+
+	color: white;
+	font-family: inherit;
+	text-align: center;
+	font-style: italic;
+	background-color: grey;
+}
+td{
+	color: white
+}
